@@ -1,6 +1,6 @@
 ## Проектная работа №10 Яндекс практикум
 
-v.0.0.6
+v.0.0.7
 
 
 https://ceobit.github.io/project10.github.io-/
