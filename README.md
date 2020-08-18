@@ -1,8 +1,8 @@
-## Проектная работа №10 Яндекс практикум
+## Project №10 Yandex Praktikum
 
 v.0.0.7
 
 
-https://ceobit.github.io/project10.github.io-/
+https://ceobit.github.io/Regular-expressions/
 
-Работа с Git. Регулярные выражения для валидации форм.
+Work with Git. Regular expressions for form validation.
